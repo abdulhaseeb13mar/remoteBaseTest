@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 
 
 function Movieform() {
-  const [name, setName] = useState();
+  
   return (
     <section>
       <div className='card pa-30'>
